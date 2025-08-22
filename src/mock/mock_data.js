@@ -500,6 +500,20 @@ export const mockData = {
           "icon": "https://gallery.loli-con.cn/logo.png"
         },
         {
+          "id": "site-1755852158316",
+          "name": "OpenList",
+          "url": "https://oplist.lolicon.world",
+          "description": "顾名思义",
+          "icon": " https://res.oplist.org/logo/logo.svg"
+        },
+        {
+          "id": "site-1755852107305",
+          "name": "WORLD",
+          "url": "https://lolicon.world",
+          "description": "本导航站",
+          "icon": ""
+        },
+        {
           "id": "site-1755851592906",
           "name": "GitHub 文件加速",
           "url": "https://gh.lolicon.world",
