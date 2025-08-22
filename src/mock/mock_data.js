@@ -102,6 +102,13 @@ export const mockData = {
           "url": "https://panel.lolicon.world:15565/woodwood",
           "description": "说实话这种面板都不好用",
           "icon": " https://panel.lolicon.world:15565/static/vite/favicon.ico"
+        },
+        {
+          "id": "site-1755852981886",
+          "name": "LLK Pastebin",
+          "url": "https://paste.loli-con.cn",
+          "description": "Pastebin",
+          "icon": " https://paste.loli-con.cn/favicon.ico"
         }
       ]
     },
