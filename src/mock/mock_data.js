@@ -95,6 +95,13 @@ export const mockData = {
           "url": "https://dash.lolicon.world",
           "description": "服务器监控面板",
           "icon": "https://dash.lolicon.world/favicon.ico"
+        },
+        {
+          "id": "site-1755852927270",
+          "name": "aaPanel",
+          "url": "https://panel.lolicon.world:15565/woodwood",
+          "description": "说实话这种面板都不好用",
+          "icon": " https://panel.lolicon.world:15565/static/vite/favicon.ico"
         }
       ]
     },
