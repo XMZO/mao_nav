@@ -16,8 +16,15 @@ export const mockData = {
           "id": "site-1755851537624",
           "name": "LOLI ImgHub",
           "url": "https://gallery.loli-con.cn",
-          "description": "自建图床",
+          "description": "自建图床\n密码 114514",
           "icon": "https://gallery.loli-con.cn/logo.png"
+        },
+        {
+          "id": "site-1755853092057",
+          "name": "MoeMail",
+          "url": "https://mail.loli-con.cn",
+          "description": "临时邮箱",
+          "icon": "https://mail.loli-con.cn/favicon.ico"
         },
         {
           "id": "site-1755852158316",
@@ -109,6 +116,13 @@ export const mockData = {
           "url": "https://paste.loli-con.cn",
           "description": "Pastebin",
           "icon": " https://paste.loli-con.cn/favicon.ico"
+        },
+        {
+          "id": "site-1755853029530",
+          "name": "CloudPaste",
+          "url": "https://drop.loli-con.cn",
+          "description": "自用，不过感觉不太行，可能会换",
+          "icon": " https://drop.loli-con.cn/cloudpaste.svg"
         }
       ]
     },
