@@ -16,7 +16,7 @@ export const mockData = {
           "id": "site-1755851537624",
           "name": "LOLI ImgHub",
           "url": "https://gallery.loli-con.cn",
-          "description": "自建图床\n访问码 114514",
+          "description": "图床\n访问码 114514",
           "icon": "https://gallery.loli-con.cn/logo.png"
         },
         {
