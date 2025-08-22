@@ -100,7 +100,7 @@ export const mockData = {
           "id": "site-1755852927270",
           "name": "aaPanel",
           "url": "https://panel.lolicon.world:15565/woodwood",
-          "description": "说实话这种面板都不好用",
+          "description": "说实话这些面板都不怎么样",
           "icon": " https://panel.lolicon.world:15565/static/vite/favicon.ico"
         },
         {
