@@ -90,13 +90,6 @@ export const mockData = {
           "icon": " https://vault.loli-con.cn/images/favicon-32x32.png"
         },
         {
-          "id": "site-1755852799585",
-          "name": "TeamSpeak 服务器",
-          "url": "https://teamspeak.com",
-          "description": "anon.lolicon.world \n爱音.lolicon.world\n密码 0721",
-          "icon": " https://teamspeak.com/user/themes/teamspeak/images/favicon.ico"
-        },
-        {
           "id": "site-1755852850128",
           "name": " Komari Monitor",
           "url": "https://dash.lolicon.world",
