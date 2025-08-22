@@ -74,6 +74,20 @@ export const mockData = {
           "url": "https://cf.lolicon.world/panel",
           "description": "自动获取CF节点，救急用",
           "icon": "https://cf.lolicon.world/favicon.ico"
+        },
+        {
+          "id": "site-1755852394270",
+          "name": "VaultWarden",
+          "url": "https://vault.loli-con.cn",
+          "description": "...",
+          "icon": " https://vault.loli-con.cn/images/favicon-32x32.png"
+        },
+        {
+          "id": "site-1755852799585",
+          "name": "TeamSpeak 服务器",
+          "url": "https://teamspeak.com",
+          "description": "anon.lolicon.world / 爱音.lolicon.world\n密码 0721",
+          "icon": " https://teamspeak.com/user/themes/teamspeak/images/favicon.ico"
         }
       ]
     },
