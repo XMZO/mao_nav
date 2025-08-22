@@ -479,9 +479,14 @@ export const mockData = {
           "icon": "/sitelogo/www.feishu.cn.ico"
         }
       ]
+    },
+    {
+      "id": "category-1755851359879",
+      "icon": "🌐",
+      "name": "自建项目",
+      "order": 0,
+      "sites": []
     }
   ],
-  "title": "猫猫导航",
-  "search": "bing",
-  "_fileSha": "cf9e9f1ad8644add6c0918786cae6707de255aaf"
+  "title": "猫猫导航"
 }
