@@ -86,7 +86,7 @@ export const mockData = {
           "id": "site-1755852394270",
           "name": "VaultWarden",
           "url": "https://vault.loli-con.cn",
-          "description": "...",
+          "description": "密码管理器",
           "icon": " https://vault.loli-con.cn/images/favicon-32x32.png"
         },
         {
