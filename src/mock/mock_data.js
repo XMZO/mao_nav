@@ -29,7 +29,7 @@ export const mockData = {
         {
           "id": "site-1755852158316",
           "name": "OpenList",
-          "url": "https://oplist.lolicon.world",
+          "url": "https://op.loli-con.cn",
           "description": "顾名思义",
           "icon": " https://res.oplist.org/logo/logo.svg"
         },
