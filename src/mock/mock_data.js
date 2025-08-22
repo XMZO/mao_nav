@@ -93,7 +93,7 @@ export const mockData = {
           "id": "site-1755852799585",
           "name": "TeamSpeak 服务器",
           "url": "https://teamspeak.com",
-          "description": "anon.lolicon.world / 爱音.lolicon.world\n密码 0721",
+          "description": "anon.lolicon.world \n爱音.lolicon.world\n密码 0721",
           "icon": " https://teamspeak.com/user/themes/teamspeak/images/favicon.ico"
         },
         {
