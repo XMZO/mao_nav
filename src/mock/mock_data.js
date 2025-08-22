@@ -88,6 +88,13 @@ export const mockData = {
           "url": "https://teamspeak.com",
           "description": "anon.lolicon.world / 爱音.lolicon.world\n密码 0721",
           "icon": " https://teamspeak.com/user/themes/teamspeak/images/favicon.ico"
+        },
+        {
+          "id": "site-1755852850128",
+          "name": " Komari Monitor",
+          "url": "https://dash.lolicon.world",
+          "description": "服务器监控面板",
+          "icon": "https://dash.lolicon.world/favicon.ico"
         }
       ]
     },
