@@ -485,7 +485,14 @@ export const mockData = {
       "icon": "🌐",
       "name": "自建项目",
       "order": 0,
-      "sites": []
+      "sites": [
+        {
+          "id": "site-1755851460965",
+          "name": "LOLI-MOE",
+          "url": "https://loli-moe.com",
+          "description": "个人博客"
+        }
+      ]
     }
   ],
   "title": "猫猫导航"
