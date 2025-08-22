@@ -491,6 +491,34 @@ export const mockData = {
           "name": "LOLI-MOE",
           "url": "https://loli-moe.com",
           "description": "个人博客"
+        },
+        {
+          "id": "site-1755851537624",
+          "name": "LOLI ImgHub",
+          "url": "https://gallery.loli-con.cn",
+          "description": "自建图床",
+          "icon": "https://gallery.loli-con.cn/logo.png"
+        },
+        {
+          "id": "site-1755851592906",
+          "name": "GitHub 文件加速",
+          "url": "https://gh.lolicon.world",
+          "description": "自建，不如 https://ghfast.top",
+          "icon": "https://gh.lolicon.world/favicon.ico"
+        },
+        {
+          "id": "site-1755851626418",
+          "name": "Open WebUI",
+          "url": "https://ai.lolicon.world",
+          "description": "自用",
+          "icon": " https://ai.lolicon.world/static/favicon.png"
+        },
+        {
+          "id": "site-1755851659937",
+          "name": "Veloera",
+          "url": "https://api.lolicon.world",
+          "description": "自用",
+          "icon": " https://api.lolicon.world/logo.png"
         }
       ]
     }
