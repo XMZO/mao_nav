@@ -519,6 +519,27 @@ export const mockData = {
           "url": "https://api.lolicon.world",
           "description": "自用",
           "icon": " https://api.lolicon.world/logo.png"
+        },
+        {
+          "id": "site-1755851890575",
+          "name": "SillyTavern",
+          "url": "https://chat.loli-con.cn",
+          "description": "酒馆！自用",
+          "icon": "https://gallery.loli-con.cn/file/1755851884398_00ea49c7-fd63-4368-b915-0e9a6a6e86f7.ico"
+        },
+        {
+          "id": "site-1755851962108",
+          "name": "Alkali SSR",
+          "url": "https://app.lolicon.world",
+          "description": "Airport! 自用",
+          "icon": "https://gallery.loli-con.cn/file/1755718313440_output-3_31_34.gif"
+        },
+        {
+          "id": "site-1755852034810",
+          "name": "BPB Panel",
+          "url": "https://cf.lolicon.world/panel",
+          "description": "自动获取CF节点，救急用",
+          "icon": "https://cf.lolicon.world/favicon.ico"
         }
       ]
     }
