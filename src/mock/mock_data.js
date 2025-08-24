@@ -97,25 +97,11 @@ export const mockData = {
           "icon": "https://dash.lolicon.world/favicon.ico"
         },
         {
-          "id": "site-1755852927270",
-          "name": "aaPanel",
-          "url": "https://panel.lolicon.world:15565/woodwood",
-          "description": "说实话，这些面板都不怎么样",
-          "icon": " https://panel.lolicon.world:15565/static/vite/favicon.ico"
-        },
-        {
           "id": "site-1755852981886",
           "name": "LLK Pastebin",
           "url": "https://paste.loli-con.cn",
           "description": "Pastebin",
           "icon": " https://paste.loli-con.cn/favicon.ico"
-        },
-        {
-          "id": "site-1755853029530",
-          "name": "CloudPaste",
-          "url": "https://drop.loli-con.cn",
-          "description": "自用，不过感觉不太行，可能会换",
-          "icon": " https://drop.loli-con.cn/cloudpaste.svg"
         }
       ]
     },
